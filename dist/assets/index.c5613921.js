@@ -1,1 +1,0 @@
-import{h as t,Y as r,V as e}from"./index.181623f1.js";import o from"./Upload.080cc9e0.js";import"./usePath.30d641b8.js";import"./index.2a3d34d0.js";const p=()=>t(e,{justifyContent:"center",h:"100vh",get children(){return t(r,{w:"$md",get children(){return t(o,{})}})}});export{p as default};
